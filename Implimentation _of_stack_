@@ -51,6 +51,7 @@ public:
         else
             cout << "NO : Stack is not Full" << endl;
     }
+    // function for size of stack
     void sizeofstack()
     {
         cout << "size of stack is : " << top + 1 << endl;
